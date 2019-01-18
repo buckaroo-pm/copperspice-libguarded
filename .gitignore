@@ -17,3 +17,10 @@ Makefile.in
 /autotools/m4/ltsugar.m4
 /autotools/m4/ltversion.m4
 /autotools/m4/lt~obsolete.m4
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
